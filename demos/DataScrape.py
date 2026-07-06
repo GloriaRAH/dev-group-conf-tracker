@@ -9,7 +9,6 @@ import argparse
 
 Vizier.ROW_LIMIT = -1
 
-
 # SURVEYS
 
 SURVEYS = [
